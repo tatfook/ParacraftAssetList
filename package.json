@@ -1,0 +1,25 @@
+{
+  "name": "paracraft-asset-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "productName": "ParacraftAssetList",
+  "repository": {
+    "url": "https://github.com/tatfook/ParacraftAssetList.git"
+  },
+  "author": {
+    "name": "zhangleio",
+    "email": "zhangleio@outlook.com"
+  },
+  "scripts": {
+  },
+  "devDependencies": {
+    "fs-extra": "^7.0.0",
+    "underscore": "~1.8.3",
+    "request": "^2.85.0",
+    "express": "^4.16.3",
+    "archiver": "^3.0.0",
+    "glob": "^7.1.4"
+  },
+  "dependencies": {}
+}
